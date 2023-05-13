@@ -1,2 +1,21 @@
 # FinalProjectCS2000
 Creating a text file that provides class information for a Computer Science student's preferred start date and class level
+
+This project demonstrates the ability to read through an input file containing course information for the Fall of 2023.
+It filters by user input determining what day of the week they would like to start the class (a Monday or Tuesday) and what
+experience level they are at (1000, 2000, 3000, 4000).  Finally, it provides a .txt file (YourClassList.txt) which outputs
+all the class information fitting their parameters in a readable, organized manner.
+
+I demonstrated the following features in completing this project:
+    
+    +1 for using inheritance in the form of a derived class (OfferedCourse) with various variables that separate it from its
+    base class (Course), the latter of which can differ from semester to semester.
+    
+    +1 for using a new file (CoursesFall2023UnderscoreReplace.txt) modified from the original data file (CoursesFall2023Tab.txt),
+    one which I parsed, evaluated, modified, and organized in a readable manner for the user in an output text
+    file (YourClassList.txt).
+    
+    +1 for using a Dynamic array of OfferedCourse objects to store the data fitting both the start day and course level parameters
+    separate from the original vectors organizing courses only by start days.
+    
+    +1 for putting my code in this github account and emailing it to professor Trovato.
