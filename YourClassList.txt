@@ -1,0 +1,47 @@
+Monday Courses at a 2000 Level
+
+   Course: CISC 2000
+   Title: Computer Science II
+   Section: R03
+   Hours: 3
+   CRN: 36375
+   Term: Fall 2023
+   Instructor: Amir   Toliyat
+   Second Class Day (if applicable): Thursday 
+
+   Course: CISC 2100
+   Title: Discrete Structures II
+   Section: R02
+   Hours: 3
+   CRN: 40117
+   Term: Fall 2023
+   Instructor: Zige Liu
+   Second Class Day (if applicable): Thursday 
+
+   Course: CISC 2200
+   Title: Data Structures
+   Section: R02
+   Hours: 4
+   CRN: 28460
+   Term: Fall 2023
+   Instructor: Yan Li
+   Second Class Day (if applicable): Thursday 
+
+   Course: CISC 2350
+   Title: Information and Web Programming
+   Section: R01
+   Hours: 4
+   CRN: 49836
+   Term: Fall 2023
+   Instructor: Amir   Toliyat
+   Second Class Day (if applicable): Thursday 
+
+   Course: CISC 2540
+   Title: Introduction to Video Game Design
+   Section: R01
+   Hours: 4
+   CRN: 45469
+   Term: Fall 2023
+   Instructor: Sharang Biswas
+   Second Class Day (if applicable): Thursday 
+
